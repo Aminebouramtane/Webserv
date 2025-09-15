@@ -68,3 +68,6 @@ make
 
 # Run the server
 ./webserv [config_file]
+```
+
+
